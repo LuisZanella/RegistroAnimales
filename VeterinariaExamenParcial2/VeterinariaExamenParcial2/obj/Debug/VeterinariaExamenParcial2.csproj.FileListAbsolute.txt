@@ -1,0 +1,33 @@
+c:\users\carmen ruiz\documents\visual studio 2017\Projects\VeterinariaExamenParcial2\VeterinariaExamenParcial2\bin\Debug\VeterinariaExamenParcial2.exe.config
+c:\users\carmen ruiz\documents\visual studio 2017\Projects\VeterinariaExamenParcial2\VeterinariaExamenParcial2\bin\Debug\VeterinariaExamenParcial2.exe
+c:\users\carmen ruiz\documents\visual studio 2017\Projects\VeterinariaExamenParcial2\VeterinariaExamenParcial2\bin\Debug\VeterinariaExamenParcial2.pdb
+c:\users\carmen ruiz\documents\visual studio 2017\Projects\VeterinariaExamenParcial2\VeterinariaExamenParcial2\obj\Debug\VeterinariaExamenParcial2.csprojResolveAssemblyReference.cache
+c:\users\carmen ruiz\documents\visual studio 2017\Projects\VeterinariaExamenParcial2\VeterinariaExamenParcial2\obj\Debug\GUI\AnimalWindow.g.cs
+c:\users\carmen ruiz\documents\visual studio 2017\Projects\VeterinariaExamenParcial2\VeterinariaExamenParcial2\obj\Debug\MainWindow.g.cs
+c:\users\carmen ruiz\documents\visual studio 2017\Projects\VeterinariaExamenParcial2\VeterinariaExamenParcial2\obj\Debug\App.g.cs
+c:\users\carmen ruiz\documents\visual studio 2017\Projects\VeterinariaExamenParcial2\VeterinariaExamenParcial2\obj\Debug\VeterinariaExamenParcial2_MarkupCompile.cache
+c:\users\carmen ruiz\documents\visual studio 2017\Projects\VeterinariaExamenParcial2\VeterinariaExamenParcial2\obj\Debug\VeterinariaExamenParcial2_MarkupCompile.lref
+c:\users\carmen ruiz\documents\visual studio 2017\Projects\VeterinariaExamenParcial2\VeterinariaExamenParcial2\obj\Debug\GUI\AnimalWindow.baml
+c:\users\carmen ruiz\documents\visual studio 2017\Projects\VeterinariaExamenParcial2\VeterinariaExamenParcial2\obj\Debug\MainWindow.baml
+c:\users\carmen ruiz\documents\visual studio 2017\Projects\VeterinariaExamenParcial2\VeterinariaExamenParcial2\obj\Debug\VeterinariaExamenParcial2.g.resources
+c:\users\carmen ruiz\documents\visual studio 2017\Projects\VeterinariaExamenParcial2\VeterinariaExamenParcial2\obj\Debug\VeterinariaExamenParcial2.Properties.Resources.resources
+c:\users\carmen ruiz\documents\visual studio 2017\Projects\VeterinariaExamenParcial2\VeterinariaExamenParcial2\obj\Debug\VeterinariaExamenParcial2.csproj.GenerateResource.Cache
+c:\users\carmen ruiz\documents\visual studio 2017\Projects\VeterinariaExamenParcial2\VeterinariaExamenParcial2\obj\Debug\VeterinariaExamenParcial2.exe
+c:\users\carmen ruiz\documents\visual studio 2017\Projects\VeterinariaExamenParcial2\VeterinariaExamenParcial2\obj\Debug\VeterinariaExamenParcial2.pdb
+C:\Users\Luis\Desktop\Parcial 2\VeterinariaExamenParcial2\VeterinariaExamenParcial2\bin\Debug\VeterinariaExamenParcial2.exe.config
+C:\Users\Luis\Desktop\Parcial 2\VeterinariaExamenParcial2\VeterinariaExamenParcial2\bin\Debug\VeterinariaExamenParcial2.exe
+C:\Users\Luis\Desktop\Parcial 2\VeterinariaExamenParcial2\VeterinariaExamenParcial2\bin\Debug\VeterinariaExamenParcial2.pdb
+C:\Users\Luis\Desktop\Parcial 2\VeterinariaExamenParcial2\VeterinariaExamenParcial2\obj\Debug\VeterinariaExamenParcial2.csprojResolveAssemblyReference.cache
+C:\Users\Luis\Desktop\Parcial 2\VeterinariaExamenParcial2\VeterinariaExamenParcial2\obj\Debug\GUI\AnimalWindow.g.cs
+C:\Users\Luis\Desktop\Parcial 2\VeterinariaExamenParcial2\VeterinariaExamenParcial2\obj\Debug\MainWindow.g.cs
+C:\Users\Luis\Desktop\Parcial 2\VeterinariaExamenParcial2\VeterinariaExamenParcial2\obj\Debug\App.g.cs
+C:\Users\Luis\Desktop\Parcial 2\VeterinariaExamenParcial2\VeterinariaExamenParcial2\obj\Debug\VeterinariaExamenParcial2_MarkupCompile.cache
+C:\Users\Luis\Desktop\Parcial 2\VeterinariaExamenParcial2\VeterinariaExamenParcial2\obj\Debug\VeterinariaExamenParcial2_MarkupCompile.lref
+C:\Users\Luis\Desktop\Parcial 2\VeterinariaExamenParcial2\VeterinariaExamenParcial2\obj\Debug\GUI\AnimalWindow.baml
+C:\Users\Luis\Desktop\Parcial 2\VeterinariaExamenParcial2\VeterinariaExamenParcial2\obj\Debug\MainWindow.baml
+C:\Users\Luis\Desktop\Parcial 2\VeterinariaExamenParcial2\VeterinariaExamenParcial2\obj\Debug\VeterinariaExamenParcial2.g.resources
+C:\Users\Luis\Desktop\Parcial 2\VeterinariaExamenParcial2\VeterinariaExamenParcial2\obj\Debug\VeterinariaExamenParcial2.Properties.Resources.resources
+C:\Users\Luis\Desktop\Parcial 2\VeterinariaExamenParcial2\VeterinariaExamenParcial2\obj\Debug\VeterinariaExamenParcial2.csproj.GenerateResource.Cache
+C:\Users\Luis\Desktop\Parcial 2\VeterinariaExamenParcial2\VeterinariaExamenParcial2\obj\Debug\VeterinariaExamenParcial2.csproj.CoreCompileInputs.cache
+C:\Users\Luis\Desktop\Parcial 2\VeterinariaExamenParcial2\VeterinariaExamenParcial2\obj\Debug\VeterinariaExamenParcial2.exe
+C:\Users\Luis\Desktop\Parcial 2\VeterinariaExamenParcial2\VeterinariaExamenParcial2\obj\Debug\VeterinariaExamenParcial2.pdb
